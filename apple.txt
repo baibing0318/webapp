@@ -2,3 +2,5 @@ apple nihao flkdj
 insert aaaa在这一行上在hot_fix分支下进行修改看是否有冲突
 insert aaaa在这一行上master进行修改
 本行在hot分支下修改的
+被别人修改过的一行数据
+
